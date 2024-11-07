@@ -33,8 +33,7 @@ The goal of this Tableau Dashboard is to provide a comprehensive overview of com
 
 # Key Insights 🔍
  - **Skin Care** is generating highest revenue amongst the all three products in offer 📈
- - **Females** are amongst the most buyers of known demography.![f](https://github.com/user-attachments/assets/96a426fb-9875-4317-9fe2-91ff0e96c89a)
-
+ - **Females** are amongst the most buyers of known demography.![f2](https://github.com/user-attachments/assets/f9482f51-3ebb-4098-ba96-f08b53e45605)
  - Highest defect rates found with **Supplier 2**
  - **Kolkata** shows highest production volume and best manufacturing efficiency.
 

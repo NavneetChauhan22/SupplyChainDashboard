@@ -35,8 +35,7 @@ The goal of this Tableau Dashboard is to provide a comprehensive overview of com
  - **Skin Care** is generating highest revenue amongst the all three products in offer 📈
  - **Females** are amongst the most buyers of known demography. ![F2](https://github.com/user-attachments/assets/049a65d7-9fbc-4355-9ba6-c283afd52970)
  - Highest defect rates found with **Supplier 2** ![S](https://github.com/user-attachments/assets/486b4383-2d00-4256-9b94-1ff1f5969351)
- - **Kolkata** shows highest production volume and best manufacturing efficiency.
-
+ - **Kolkata** shows highest production volume and best manufacturing efficiency. ![f](https://github.com/user-attachments/assets/853b5e63-c5e0-4741-9149-814d1dff6daf)
 
 # How This Helps in Business:
 **Enhanced Customer Satisfaction:** Quicker lead times and efficient processes ensure timely delivery, boosting customer satisfaction. 😊

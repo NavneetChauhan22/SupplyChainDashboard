@@ -6,7 +6,7 @@ I made this Supply Chain Management Dashboard in Tableau with the provided datas
 
 ## Problem Statement
 
-The goal of this Tableau Dashboard is to provide a comprehensive overview of your supply chain operations, helping us to analyze and optimize processes, forecast demand, manage inventory, and evaluate supplier performance.
+The goal of this Tableau Dashboard is to provide a comprehensive overview of company's supply chain operations, helping us to analyze and optimize processes, forecast demand, manage inventory, and evaluate supplier performance.
 
 ## Sections in the Report
 
@@ -32,9 +32,12 @@ The goal of this Tableau Dashboard is to provide a comprehensive overview of you
 - Clone this repository to your local machine by using the following command :
 
 # Key Insights 🔍
-**Increased Revenue:** Our supply chain optimization led to a 15% increase in total revenue. 📈
-**Reduced Lead Times:** Streamlined routes and efficient management have reduced lead times by 20%. 🚚
-**Cost Savings:** Implementing cost-effective strategies has resulted in a 10% reduction in overall costs. 💰
+**Skin Care** is generating highest revenue amongst the all three products in offer 📈
+**Females** are amongst the most buyers of known demography. ![Uploading image.png…]()
+Highest defect rates found with **Supplier 2**
+**Kolkata** shows highest production volume and best manufacturing efficiency.
+
+
 # How This Helps in Business:
 **Enhanced Customer Satisfaction:** Quicker lead times and efficient processes ensure timely delivery, boosting customer satisfaction. 😊
 **Better Resource Allocation:** Understanding cost distribution helps in better budgeting and resource allocation. 🧩

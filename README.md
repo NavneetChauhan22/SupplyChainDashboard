@@ -6,7 +6,7 @@ I made this Supply Chain Management Dashboard in Tableau with the provided datas
 
 ## Objective
 
-The goal of this Tableau Dashboard is to provide a comprehensive overview of company's supply chain operations, helping us to analyze and optimize processes, forecast demand, manage inventory, and evaluate supplier performance.
+The goal of this Tableau Dashboard is to provide a comprehensive overview of company's supply chain operations, helping us to analyze and optimize processes, manage inventory, and evaluate supplier performance.
 
 ## Sections in the Report
 
@@ -45,7 +45,7 @@ The goal of this Tableau Dashboard is to provide a comprehensive overview of com
   https://github.com/NavneetChauhan22/SupplyChainDashboard.git
 
 ## DataSet Link-
-[Supply Chain Management]([url](https://github.com/NavneetChauhan22/SupplyChainDashboard/blob/main/supply_chain_data.csv))
+[Supply Chain Management]([(https://github.com/NavneetChauhan22/SupplyChainDashboard/blob/main/supply_chain_data.csv)])
 
 ## Link to the Tableau Viusalization:
 [Tableau Story](https://public.tableau.com/app/profile/navneet.chauhan2330/viz/SupplyChainManagementDashboard_17285833259470/SupplyChainManagementStoryline?publish=yes)

@@ -27,10 +27,6 @@ The goal of this Tableau Dashboard is to provide a comprehensive overview of com
 - And Lastly, Report has a heat map to show discount bands for all products with total sales visualized as colour gradient.
 
 
-## Getting Started
-
-- Clone this repository to your local machine by using the following command :
-
 # Key Insights 🔍
  - **Skin Care** is generating highest revenue amongst the all three products in offer 📈
  - **Females** are amongst the most buyers of known demography. ![F2](https://github.com/user-attachments/assets/049a65d7-9fbc-4355-9ba6-c283afd52970)
@@ -38,12 +34,16 @@ The goal of this Tableau Dashboard is to provide a comprehensive overview of com
  - **Kolkata** shows highest production volume and best manufacturing efficiency. ![f](https://github.com/user-attachments/assets/853b5e63-c5e0-4741-9149-814d1dff6daf)
 
 # How This Helps in Business:
-**Enhanced Customer Satisfaction:** Quicker lead times and efficient processes ensure timely delivery, boosting customer satisfaction. 😊
-**Better Resource Allocation:** Understanding cost distribution helps in better budgeting and resource allocation. 🧩
-**Revenue Growth:** Insights from data allow strategic decisions that directly impact revenue growth. 💸
+ - **Enhanced Customer Satisfaction:** Understanding target customers providing personalized services. 😊
+ - **Product Development** Invest in research and development to create new and improved products. ![f](https://github.com/user-attachments/assets/2120c67c-cc2a-40e2-b636-37f5b9d7b50e)
+ - **Better Resource Allocation:** Understanding cost distribution helps in better budgeting and resource allocation. 🧩
+ - **Revenue Growth:** Insights from data allow strategic decisions that directly impact revenue growth. 💸
 
 
 
+## Getting Started
+
+- Clone this repository to your local machine by using the following command :
 
 
 

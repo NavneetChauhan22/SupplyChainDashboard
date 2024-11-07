@@ -20,7 +20,7 @@ The goal of this Tableau Dashboard is to provide a comprehensive overview of com
 
 - **Manufacturing Efficiency Dashboard** - It has a dual axis chart to show manufacturing costs as bar chart for each product and a line graph to show revenue generated. It has a Pie Chart to show defect rates by product types. It has two more bar charts to show average lead time and profitabilty each by product type.
   
-- Production Volume Dashboard. It shows a pie chart to reflect %age of product volumes aligned with different locations. It has a bubble chart to show manufacturing costs vs product volumes. It has a heat map to show prodcution volume across different locations. Also, a bar chart to production volume by bar chart.
+- **Production Volume Dashboard** It shows a pie chart to reflect %age of product volumes aligned with different locations. It has a bubble chart to show manufacturing costs vs product volumes. It has a heat map to show prodcution volume across different locations. Also, a bar chart to production volume by bar chart.
 
 - And Lastly, we have a data story highlighting key insights.
 

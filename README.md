@@ -42,9 +42,9 @@ The goal of this Tableau Dashboard is to provide a comprehensive overview of com
 ## Getting Started
 
 - Clone this repository to your local machine by using the following command :
-  '''
-  https://github.com/NavneetChauhan22/SupplyChainDashboard.git
-  '''
+``` 
+git clone https://github.com/NavneetChauhan22/SupplyChainDashboard.git
+```
 
 ## DataSet Link-
 [Supply Chain Management](https://github.com/NavneetChauhan22/SupplyChainDashboard/blob/main/supply_chain_data.csv)

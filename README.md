@@ -32,10 +32,10 @@ The goal of this Tableau Dashboard is to provide a comprehensive overview of com
 - Clone this repository to your local machine by using the following command :
 
 # Key Insights 🔍
-**Skin Care** is generating highest revenue amongst the all three products in offer 📈
-**Females** are amongst the most buyers of known demography. ![Uploading image.png…]()
-Highest defect rates found with **Supplier 2**
-**Kolkata** shows highest production volume and best manufacturing efficiency.
+ - **Skin Care** is generating highest revenue amongst the all three products in offer 📈
+ - **Females** are amongst the most buyers of known demography. ![Uploading image.png…]()
+ - Highest defect rates found with **Supplier 2**
+ - **Kolkata** shows highest production volume and best manufacturing efficiency.
 
 
 # How This Helps in Business:
